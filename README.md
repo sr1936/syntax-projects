@@ -1,0 +1,2 @@
+# syntax-projects
+error
